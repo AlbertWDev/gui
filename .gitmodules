@@ -1,0 +1,6 @@
+[submodule "examples\\common_components\\graphics"]
+	path = examples\\common_components\\graphics
+	url = https://github.com/AlbertWDev/graphics.git
+[submodule "examples\\common_components\\display_driver"]
+	path = examples\\common_components\\display_driver
+	url = https://github.com/AlbertWDev/display_driver.git
