@@ -2,9 +2,9 @@ name: "Build (ESP-IDF v4.2)"
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
     paths-ignore:
       - '**.md'
   workflow_dispatch:
